@@ -4,8 +4,8 @@ Documentación de mi proceso
   
 ## links 
 
-- p5.js editable: https://editor.p5js.org/francisca.castro3/sketches/ATpvLVVxf
-- pantalla fija: https://editor.p5js.org/francisca.castro3/full/ATpvLVVxf
+- p5.js editable: https://editor.p5js.org/francisca.castro3/sketches/SywLGdMtY
+- pantalla fija: https://editor.p5js.org/francisca.castro3/full/SywLGdMtY
 
 ## Un poco de nuestro enfoque para el proyecto
 ![Imagen](Inspiración/opartinspo.webp)
